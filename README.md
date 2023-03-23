@@ -13,6 +13,10 @@
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt=" forks"/>
 
 </div>
+<br/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=CH-socially&style=for-the-badge&label=EXPLORED+BY&color=brightgreen" height="35" alt="visitors"/>
+</div>
 
 <br/>
 
@@ -67,4 +71,4 @@ If you have any questions or feedback, please don't hesitate to contact us at ht
 <br/>
 <br/>
 
-![](https://github.com/creative-hustle/socially/blob/main/media/banner.png?raw=true)
+<a href="https://www.creative-hustlers.com"><img src="https://github.com/creative-hustle/socially/blob/main/media/banner.png?raw=true" alt="Description of image"></a>
